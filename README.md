@@ -11,11 +11,7 @@ Monte Carlo simulation results confirm the preference of the proposed method fro
 
 ### Getting started
 
-To reproduce the main results from the paper, simply run:
-
-```
-python .py
-```
+All calculations are presented in [our notebook](stats_project.ipynb)
 
 
 ### Developers
